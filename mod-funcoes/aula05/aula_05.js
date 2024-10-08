@@ -13,4 +13,4 @@ function printToConsole () {
 
 printToConsole();
 
-// Escopo são os limites para os quais aquela informação é válida;
+// Escopo são os limites para os quais aquela informação é válida; .
